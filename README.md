@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Shed</h1>
 <h3 align="left">In edoc we trust</h3>
-<img align="center" alt="Coding" width="700" height="200" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannlyo&label=Profile%20views&color=0e75b6&style=flat" alt="dannlyo" /> </p>
 
