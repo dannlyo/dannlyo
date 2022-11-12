@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌🏼, I'm Shed</h1>
+<h1 align="center">Shed</h1>
 <h3 align="left">In edoc we trust</h3>
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
