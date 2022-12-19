@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Tembera**
+- 🔭 I’m currently working on **CA**
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **Weather**
+- 👯 I’m looking to collaborate on **SBrain**
 
 - 💬 Ask me about **Anything**
 
