@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **@dannlyo_ (IG)**
+- 📫 Contact me via email **shemadaniel10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
